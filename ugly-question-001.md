@@ -1,4 +1,4 @@
-![ugly quetions 001.png](http://cdn.notalk.cc/github/ugly%20quetions%20001.png)
+![ugly_questions_001.png](http://cdn.notalk.cc/github/ugly_questions_001.png)
 
 ## 这是一个工作一年的前端的问题这个问题有什么问题?
 > - 目的很清晰:新来了一个同事,需要开通gitlab账号,那么问题来了?作为一个不知道新来同事名字和工作邮箱的后端研发同学.
